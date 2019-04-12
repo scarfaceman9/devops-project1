@@ -1,0 +1,7 @@
+Installing Docker on Amazon Linux server
+1.Update packages
+
+yum update -y
+2.Install docker
+
+yum install docker -y
